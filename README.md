@@ -22,6 +22,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
    <img align="center" alt="Rafa-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
+            
+  
+  <img align="center" alt="Rafa-AWS" height="30" width="40" src="https://icons8.com.br/icon/52257/amazon-web-services" />
+  
   </div>
 
