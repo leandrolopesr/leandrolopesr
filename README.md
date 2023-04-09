@@ -2,7 +2,7 @@
 
 <strong>Sobre mim<strong>
 
-- 🌱 Atualmente estou cursando técnico em informatica para web no Senac com foco em back-end.
+- 🌱 Sou apaixonado por programar e acredito que a tecnologia tem o poder de transformar o mundo. Ainda jovem e cheio de sonhos, estou constantemente            buscando novos desafios e oportunidades para aprender e crescer como desenvolvedor.
 - 📫 email: lopesr580@gmail.com
 
 <div align="left">
