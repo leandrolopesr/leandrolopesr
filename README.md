@@ -1,9 +1,9 @@
-### Hello, i am Leandro Lopes 👋
+### Olá, eu sou Leandro Lopes 👋
 
-<strong>About me<strong>
+<strong>Sobre mim<strong>
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 Contact me by email: lopesr580@gmail.com
+- 🌱 Atualmente estou cursando técnico em informatica para web no Senac com foco em back-end.
+- 📫 email: lopesr580@gmail.com
 
 <div align="left">
   <a href="https://github.com/leandrolopesr">
